@@ -1,1 +1,1 @@
-![alt text](https://github.com/pyTimK/pyTimK/blob/master/Multi-Text-Graphic-Feature.jpg)
+![alt text](https://github.com/pyTimK/pyTimK/blob/master/timeline.png)
